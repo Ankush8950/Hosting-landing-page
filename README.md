@@ -12,10 +12,10 @@
 
 ---
 # Take Time project
-> completing this project around 4 to 6 hours and this is completely responsive design
+> completing this project around 10 to 12 hours and this is completely responsive design
 ---
 ## 🚀  Project Live Link <br>
 ---
-This project is been hosted on netlify. [Live Project Link](https://illustrious-dragon-25c496.netlify.app)
+This project is been hosted on netlify. [Live Project Link](https://merry-centaur-000a93.netlify.app/)
 
-![Saas web page](/Hosting.png)
+![Hosting web page](/Hosting.png)
